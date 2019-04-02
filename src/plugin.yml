@@ -1,0 +1,9 @@
+name: Quests
+author: Ninoo
+version: 1.0
+api-version: 1.13
+main: nino.quests.Main
+commands:
+  quests:
+    description:
+    aliases: [quests,quest,aufgabe]

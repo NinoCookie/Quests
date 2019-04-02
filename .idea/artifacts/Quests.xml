@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Quests">
+    <output-path>$PROJECT_DIR$/../Reliquia/plugins</output-path>
+    <root id="archive" name="Quests.jar">
+      <element id="module-output" name="Quests" />
+    </root>
+  </artifact>
+</component>
